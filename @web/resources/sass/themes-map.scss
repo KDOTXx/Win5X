@@ -1,0 +1,29 @@
+$themes: (
+  main: (
+    header: #1a5000ff,
+    header-block: #ffffffff,
+    body: #117a00ff,
+    secondary: #fe9903c4,
+    border: #ffffffff,
+    shadow: none,
+    block: #117101ff,
+    table-color: #727272,
+    wallet: #1e2024,
+    text: cyan,
+    textInverted: black,
+    sidebar: #ea8d00f7,
+    chat-accent: #141414,
+    link: #00c7d4ff,
+    link-hover: white,
+    input: #1C1C1C,
+    input-dark: #111111,
+    footer: #1a5000ff,
+    modal: #202020,
+    modal_input: #252526,
+    switchBackground: rgb(255, 255, 255, .15),
+    switchBackgroundDot: rgb(255, 255, 255, .15),
+    switchBackgroundOn: #4bcb27,
+    switchBackgroundDotOn: rgb(255, 255, 255, .4),
+    selectorArrow: url("data:image/svg+xml;utf8,<svg fill='white' height='34' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>")
+  )
+);
